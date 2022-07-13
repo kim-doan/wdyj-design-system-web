@@ -1,9 +1,9 @@
 {
-  "name": "@wdyj/wdyj-design-system-web",
-  "version": "0.0.1",
+  "name": "@kim-doan/wdyj-design-system-web",
+  "version": "0.0.2",
   "repository": {
     "type": "git",
-    "url": "https://github.com/wdyj/wdyj-design-system-web.git"
+    "url": "https://github.com/kim-doan/wdyj-design-system-web.git"
   },
   "author": "WDYJ Lab.",
   "publishConfig": {
