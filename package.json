@@ -1,6 +1,6 @@
 {
   "name": "@kim-doan/wdyj-design-system-web",
-  "version": "0.0.2",
+  "version": "0.0.4",
   "repository": {
     "type": "git",
     "url": "https://github.com/kim-doan/wdyj-design-system-web.git"
@@ -19,8 +19,8 @@
   },
   "license": "UNLICENSED",
   "peerDependencies": {
-    "react": "^16.8.0 || 17.x",
-    "react-dom": "^16.8.0 || 17.x",
+    "react": "^16.8.0 || 18.x",
+    "react-dom": "^16.8.0 || 18.x",
     "styled-components": "^5.0.0"
   },
   "files": [
