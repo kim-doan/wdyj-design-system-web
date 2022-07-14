@@ -1,6 +1,6 @@
 {
   "name": "@kim-doan/wdyj-design-system-web",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "author": "WDYJ Lab.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
