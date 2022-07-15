@@ -6,4 +6,5 @@ export { default as BaseTheme } from "./themes/BaseTheme";
 export { default as createTheme } from "./themes/createTheme";
 export type { ThemeOptions } from "./themes/createTheme";
 
-export { default as MyButton } from './lib/MyButton';
+export { default as MyButton } from './components/MyButton';
+export * from "./components/Table";
